@@ -1,0 +1,30 @@
+.box3{
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.box4{
+    width: 1200px;
+    height: 700px;
+    /* background-color: rgb(224, 151, 62); */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* height: 100vh; */
+}
+.products{
+    display: flex;
+    flex-direction: column;
+    /* background-color: black; */
+    /* justify-content: space-around; */
+    justify-content: center;
+    align-items: center;
+}
+.pic{
+    width: 200px;
+    height: 200px;
+    padding: 2px;
+}

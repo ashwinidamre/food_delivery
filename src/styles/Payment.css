@@ -1,0 +1,63 @@
+.payment{
+    background: linear-gradient(to left,rgb(237, 246, 104),rgb(59, 171, 123),rgb(72, 127, 216));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.address{
+    width: 800px;
+    height: 200px;
+    /* background-color: aquamarine; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.address1{
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.payment_methods{
+    width: 1000px;
+    height: 500px;
+    /* background-color: rgb(233, 233, 54); */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+h4{
+    
+    margin-left: -600px;
+}
+.payment_option{
+  width: 600px;
+  height: 100px;
+  display:flex;
+  align-items: center;
+  font-size: 20px;
+}
+.btn{
+    width:20px;
+    height: 20px;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    margin-left: 30px;
+}
+
+.place_your_order{
+    width: 150px;
+    height: 150px;
+    /* background-color: rgb(20, 22, 21); */
+}
+
+.order{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
